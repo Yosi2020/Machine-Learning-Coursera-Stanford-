@@ -1,4 +1,5 @@
 # Machine Learning Week 2 Quiz 1 (Linear Regression with Multiple Variables) Stanford Coursera
+# Grade 100%
 
 Github repo for the Course: [Stanford Machine Learning (Coursera)](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning) </br>
 
