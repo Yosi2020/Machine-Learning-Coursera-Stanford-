@@ -19,7 +19,7 @@ Concretely, suppose you want to fit a model of the form hθ(x)=θ<sub>0</sub>+θ
 where x<sub>1</sub> is the midterm score and x<sub>2</sub> is (midterm score)<sup>2</sup>. 
 Further, you plan to use both feature scaling (dividing by the "max-min", or range, of a feature) and mean normalization.
 
-What is the normalized feature x<sub>2</sub><sup>(4)</sup>? (Hint: midterm = 72, final = 74 is training example 2.) 
+What is the normalized feature x<sub>2</sub><sup>(2)</sup>? (Hint: midterm = 72, final = 74 is training example 2.) 
 Please round off your answer to two decimal places and enter in the text box below.
 
 Answer: </br>
