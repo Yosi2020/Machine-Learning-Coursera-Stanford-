@@ -103,4 +103,6 @@ False | It is necessary to prevent gradient descent from getting stuck in local 
 True | It speeds up gradient descent by making it require fewer iterations to get to a good solution. | Feature scaling speeds up gradient descent by avoiding many extra iterations that are required when one or more features take on much larger values than the rest.
 
   
-                                                            # Thanks
+                                                   
+                                                                  Thanks
+                                                                  ------
