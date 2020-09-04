@@ -1,8 +1,6 @@
 # Machine Learning Week 2 Quiz 1 (Linear Regression with Multiple Variables) Stanford Coursera
 # Grade 100%
 
-Github repo for the Course: [Stanford Machine Learning (Coursera)](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning) </br>
-
 Question 1
 ----------
 Suppose m=4 students have taken some class, and the class had a midterm exam and a final exam. You have collected a dataset of their scores on the two exams, which is as follows:
