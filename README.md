@@ -102,5 +102,5 @@ False | It prevents the matrix X<sup>T</sup>X (used in the normal equation) from
 False | It is necessary to prevent gradient descent from getting stuck in local optima. | The cost function J(θ) for linear regression has no local optima. 
 True | It speeds up gradient descent by making it require fewer iterations to get to a good solution. | Feature scaling speeds up gradient descent by avoiding many extra iterations that are required when one or more features take on much larger values than the rest.
 
-
-                                    Thanks
+  
+                                                            # Thanks
