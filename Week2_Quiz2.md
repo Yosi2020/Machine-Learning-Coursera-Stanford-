@@ -26,8 +26,8 @@ First A = 3 × 2 matrix and B = 2 × 3 matrix
 - Two matrices A and B can be multiplied if and only if they have the same inner size m × n. Which means size A = m × n and size B must be n × p then there product will be m × p.
 * The Transpose of size A' = 2 × 3 and B' = 3 × 2
 * The Final Answer is 
-             **C = B' + A;**
-             **C = A * B;**
+                       **C = B' + A;**
+                       **C = A * B;**
 ---
 
 ## Question 2
@@ -49,8 +49,8 @@ Which of the following indexing expressions gives
 ### Answer
 The size of matrix A is 4 x 4 and the size of matrix B is 4 x 2 as you see the matric B is the 1&2 col of matrix A 
 * Note :- In matlab and octave the index number is starting from 1.
-The correct answer is * **B = A(:, 1:2);**
- 
+The correct answer is 
+                      * **B = A(:, 1:2);**
                       * **B = A(1:4, 1:2);** 
 
 ---
@@ -105,7 +105,8 @@ Which of the following vectorizations correctly compute z? Check all that apply.
 The dimensions 7 x 1 
 As i tell in question number 1) The inner size must be the same so we must convert the size by using transpose.
 And if we use dot product we must add them together for more refer the vectorization tutorial 
-The correct answer is * **z = v' * w;**
+The correct answer is 
+                      * **z = v' * w;**
                       * **z = sum (v .* w);** 
 
 ---
@@ -133,11 +134,7 @@ Which of the following correctly compute A,B,C, or D? Check all that apply.
     * B = X ^ 2;
 
 ### The Corect Answer is 
-
-               * **A = log(X);**
- 
-               * **C = X + 1;**
- 
-               * **D = X / 4;**
- 
-               * **B = X .^ 2;**
+              ### * A = log(X);
+              ### * C = X + 1;
+              ### * D = X / 4;
+              ### * B = X .^ 2;
