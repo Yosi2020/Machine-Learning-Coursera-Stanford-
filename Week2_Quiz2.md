@@ -1,4 +1,4 @@
-# Week 2 | V. Octave Tutorial
+# Machine Learning Week 2 Quiz 2 (V. Octave Tutorial) Stanford Coursera
 
 ## Question 1
 
